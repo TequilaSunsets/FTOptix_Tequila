@@ -1,0 +1,12 @@
+E:\RosckWell\Projects\MiPrimerProyecto\ProjectFiles\NetSolution\bin\MiPrimerProyecto.deps.json
+E:\RosckWell\Projects\MiPrimerProyecto\ProjectFiles\NetSolution\bin\MiPrimerProyecto.dll
+E:\RosckWell\Projects\MiPrimerProyecto\ProjectFiles\NetSolution\bin\MiPrimerProyecto.pdb
+E:\RosckWell\Projects\MiPrimerProyecto\ProjectFiles\NetSolution\obj\Debug\MiPrimerProyecto.csproj.AssemblyReference.cache
+E:\RosckWell\Projects\MiPrimerProyecto\ProjectFiles\NetSolution\obj\Debug\MiPrimerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+E:\RosckWell\Projects\MiPrimerProyecto\ProjectFiles\NetSolution\obj\Debug\MiPrimerProyecto.AssemblyInfoInputs.cache
+E:\RosckWell\Projects\MiPrimerProyecto\ProjectFiles\NetSolution\obj\Debug\MiPrimerProyecto.AssemblyInfo.cs
+E:\RosckWell\Projects\MiPrimerProyecto\ProjectFiles\NetSolution\obj\Debug\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+E:\RosckWell\Projects\MiPrimerProyecto\ProjectFiles\NetSolution\obj\Debug\MiPrimerProyecto.dll
+E:\RosckWell\Projects\MiPrimerProyecto\ProjectFiles\NetSolution\obj\Debug\refint\MiPrimerProyecto.dll
+E:\RosckWell\Projects\MiPrimerProyecto\ProjectFiles\NetSolution\obj\Debug\MiPrimerProyecto.pdb
+E:\RosckWell\Projects\MiPrimerProyecto\ProjectFiles\NetSolution\obj\Debug\ref\MiPrimerProyecto.dll

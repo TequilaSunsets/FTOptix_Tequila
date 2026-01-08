@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module version="1">
+    <Name>MiPrimerProyectoUserDefinedModule</Name>
+    <Company></Company>
+    <Version>0.0.0</Version>
+    <MinUpgradableVersion>0.0.0</MinUpgradableVersion>
+    <Binding name="Net" />
+
+    <Namespaces/>
+
+    <Dependencies>
+        <Core version="0.0.0" />
+        <Binding version="0.0.0" />
+        <Module name="FTOptix.HMIProject.Net" version="0.0.0" />
+    </Dependencies>
+
+    <Nodes/>
+
+    <TypeMappings>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MiPrimerProyecto" guid="01a7e8933afd7c95fe894b0859308138" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MiPrimerProyecto" guid="603092339ee3de7af9818b4f90f91e3a" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MiPrimerProyecto" guid="fdaa24e0443843b4b1c02f60a174773d" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MiPrimerProyecto" guid="fb0ad292c72860140f3c5833e3c0fa3a" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MiPrimerProyecto" guid="524a590206384910d7328e62b2efa1b7" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MiPrimerProyecto" guid="26df19542360313d3e0a5bb839342bd4" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MiPrimerProyecto" guid="f0f12af62d3f44e042e68c83a8005b15" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MiPrimerProyecto" guid="fee10e0fb4beb7679e9ca605b82d983d" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MiPrimerProyecto" guid="09a1359acdd2a848632908f997648c6e" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MiPrimerProyecto" guid="8d1690e50ad6265d96ff9597262781dc" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MiPrimerProyecto" guid="2d59d457e3c3f3f3a7ba95ce5c40a836" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MiPrimerProyecto" guid="28f16afff82338810547dd61fc95769b" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MiPrimerProyecto" guid="5708f69376d33df4e0d30b5b426240ea" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MiPrimerProyecto" guid="4c907028ffc81a6db8b76be2097ace8f" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MiPrimerProyecto" guid="8a54bc68188848aff84464ab0751ae0f" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MiPrimerProyecto" guid="a952f637f5ff4b9f1073c1d19967d260" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MiPrimerProyecto" guid="c54f3bf5c3c655257e76b1f31e3539dc" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MiPrimerProyecto" guid="d671d666a8ca2ad90e7ebf5c51473a44" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MiPrimerProyecto" guid="63dce43893097456174cce27e28ffbba" />
+            </TargetType>
+        </TypeMapping>
+        <TypeMapping>
+            <TargetType>
+                <NodeId namespaceUri="MiPrimerProyecto" guid="58a444eaa2857cf709bd07f229d3313d" />
+            </TargetType>
+        </TypeMapping>
+    </TypeMappings>
+</Module>
